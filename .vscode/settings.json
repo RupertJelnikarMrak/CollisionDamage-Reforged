@@ -1,0 +1,8 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "cSpell.words": [
+        "collisiondamage",
+        "MODID"
+    ],
+    "java.compile.nullAnalysis.mode": "disabled"
+}
